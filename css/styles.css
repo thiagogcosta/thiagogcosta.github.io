@@ -1,0 +1,18 @@
+body {
+    font-family: Ubuntu;
+    padding: 15;
+    background-color: #F5F5F5;
+}
+
+.todo{
+    padding-top: 75px;
+    font-size: 24;
+    flex: 1;
+    justify-content: center;
+    text-align: center;
+}
+
+.icon-typescript:before {
+    content: "\e902";
+    color: #007acc;
+}
